@@ -1,4 +1,4 @@
-# sepomex-zip-codes
+# Base de datos Sepomex
 
 Estados, municipios, ciudades, colonias y códigos postales de México (Base de datos, MySQL, SQL)
 
