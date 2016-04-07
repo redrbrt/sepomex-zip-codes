@@ -1,5 +1,9 @@
 # sepomex-zip-codes
 
-Estados, municipios, ciudades, colonias y códigos postales de México (Base de datos, MySQL, SQL)
+Estados, municipios, ciudades, colonias y códigos postales de México (Base de datos, MySQL, SQL, json, csv) actualizada a Abril/2016 (145 908 registros).
+Éstos datos son simplificados y agrupados en el SQL para facilitar importarlos en una base de datos.
 
-Si importan el archivo sepomex.sql en una base de datos con MySQL recomiendo hacerlo con workbench, no con phpmyadmin ya que el tiempo para procesar todos los INSERT lleva alrededor de 15 min
+Fuente: 
+http://www.sepomex.gob.mx/ServiciosLinea/Paginas/DescargaCP.aspx
+
+![alt tag](https://raw.githubusercontent.com/redrbrt/sepomex-zip-codes/master/imagen.png)
